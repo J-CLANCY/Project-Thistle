@@ -11,6 +11,7 @@
 ## Project Structure
 
 ```
+├── ""arduino"" => Contains Arduino programs used on the Arduino Nano to program the EEPROMs.  
 ├── ""docs"" => Contains documentation for this project.  
 │    ├── ""images"" => Pictures of the physical breadboard verison of this processor
 │    ├── ""modules"" => Contains ODT documents detailing each module in the processor.
