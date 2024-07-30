@@ -6,7 +6,7 @@
 
  It is important to note, it was named Thistle, because it was a constant thorn in my side. Additionally, I could only afford red wire at the time, as I was a broke student. All the ICs, except for the Arduino Nano and the SRAM IC, where "borrowed" from my university electronics department. Massive shout-out to Myles Meehan and Martin Burke for always being so chill about it.
 
- ![Thistle]("\docs\images\Thistle\Thistle.jpg")
+ ![Thistle](\docs\images\Thistle\Thistle.jpg)
  Project Thistle - An 8-bit Breadboard-based Jellybean Logic Processor
 
 ## Project Structure
